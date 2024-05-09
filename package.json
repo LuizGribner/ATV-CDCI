@@ -2,10 +2,9 @@
   "name": "atv-cdci",
   "version": "1.0.0",
   "main": "index.js",
-<<<<<<< HEAD
   "scripts": {
-    "test": "jest TESTS/soma.test.js"
-=======
+    "test": "jest"
+  },
   "dependencies": {
     "ansi-escapes": "^4.3.2",
     "ansi-regex": "^5.0.1",
@@ -197,19 +196,8 @@
     "yocto-queue": "^0.1.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "jest"
->>>>>>> main
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-<<<<<<< HEAD
-  "description": "",
-  "dependencies": {
-    "jest": "^29.7.0"
-  }
-=======
   "description": ""
->>>>>>> main
 }
