@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest TESTS/soma.test.js"
   },
   "dependencies": {
     "ansi-escapes": "^4.3.2",
@@ -195,7 +195,9 @@
     "yargs-parser": "^21.1.1",
     "yocto-queue": "^0.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
